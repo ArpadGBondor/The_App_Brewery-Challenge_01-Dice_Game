@@ -3,7 +3,7 @@
 ## Udemy - The Complete 2020 Web Development Bootcamp
 ### Section 12: Boss Level Challenge 1 - The Dicee Game
 
-This was first challenge project through the course.
+This was the first challenge project through the course.
  - HTML5
  - CSS3
  - JavaScript
