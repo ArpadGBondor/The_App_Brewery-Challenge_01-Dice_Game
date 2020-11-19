@@ -11,4 +11,5 @@ This was first challenge project through the course.
 How to play:
 
 When you open the [index.html](https://arpadgbondor.github.io/The_App_Brewery-Challenge_01-Dice_Game/) two player rolls six sided dices, and the player with the larger number wins. 
+
 You need to reload the page to play again. 
