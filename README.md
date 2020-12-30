@@ -11,5 +11,5 @@ This was the first challenge project through the course.
 #### Game description:
  - Two player rolls six sided dices, and the player with the larger number wins.
 #### How to play:
- - Open the [index.html](https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_01-Dice_Game/) to play.
+ - Open the [index.html](https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_02-Dice_Game/) to play.
  - You need to reload the page to play again. 
