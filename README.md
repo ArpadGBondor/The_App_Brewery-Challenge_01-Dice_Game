@@ -1,6 +1,6 @@
 # [The App Brewery - Front-end project 02 - Dice Game](https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_02-Dice_Game/)
 
-## Udemy - The Complete 2020 Web Development Bootcamp
+## Udemy - [Dr. Angela Yu - The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 ### Section 12: Boss Level Challenge 1 - The Dicee Game
 
 This was the first challenge project through the course.
